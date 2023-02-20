@@ -1,20 +1,12 @@
 {
   "books": [
     {
-      "title": "Desk",
+      "title": "Harry Potter",
       "id": 2
     },
     {
-      "title": "Forest",
-      "id": 3
-    },
-    {
-      "title": "Sub",
-      "id": 5
-    },
-    {
-      "title": "?",
-      "id": 6
+      "title": "Strawbarry",
+      "id": 4
     }
   ]
 }
